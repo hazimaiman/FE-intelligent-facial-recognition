@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FE-intelligent-facial-recognition/static/css/main.510ff824.css",
+    "main.js": "/FE-intelligent-facial-recognition/static/js/main.e61b408b.js",
+    "index.html": "/FE-intelligent-facial-recognition/index.html",
+    "main.510ff824.css.map": "/FE-intelligent-facial-recognition/static/css/main.510ff824.css.map",
+    "main.e61b408b.js.map": "/FE-intelligent-facial-recognition/static/js/main.e61b408b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.510ff824.css",
+    "static/js/main.e61b408b.js"
+  ]
+}
